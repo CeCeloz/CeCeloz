@@ -1,29 +1,35 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-<p align="center">
-    <a href="https://www.buymeacoffee.com/ceceloz">Buy me a coffee ☕</a>
-</p>
+### Welcome to my github 💫
+My name is Haykkonen Rainnier, I am 17 years old, my nickname is CeCeloz and I am a developer who is pioneering the madness of the world
 
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narumii&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-</p>
+### :clipboard: Technologies:
 
----
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-F7DFGF?style=for-the-badge&logo=python&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img alt="ya" src="https://user-images.githubusercontent.com/60020692/88668757-69285700-d0b9-11ea-9335-f01425da2601.gif" align="right"/>
+### 🚀 Tools
 
-#### Languages
-- ![java](https://img.shields.io/badge/-Java-123?style=flat-square&logo=java)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple)
 
-#### Programs
-- ![ide](https://img.shields.io/badge/-Intellij_Idea-123?style=flat-square&logo=intellij-idea)
-- ![adobe-xd](https://img.shields.io/badge/-Adobe_XD-123?style=flat-square&logo=adobe-xd)
-- ![adobe-ps](https://img.shields.io/badge/-Adobe_Photoshop-123?style=flat-square&logo=adobe-photoshop)
+<br/>
 
----
+<details>
+  <summary>💬 Contact</summary>
+   </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+  <string>CeCeloz#0014</string>
+  
+   </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
+  <string>@HaykkonenHR</string> </br>
+</details> 
+  
+<br/>
 
-<p align="center">
-    <a href="https://discord.gg/QuP96DYrJd"><img src="https://img.shields.io/badge/-CeCeloz_0014-123?style=flat-square&logo=discord"/></a>
-    <a href="https://steamcommunity.com/id/CeCeloz_/?l=canada"><img src="https://img.shields.io/badge/-Woxic-123?style=flat-square&logo=steam"/></a>
-</p>
-
-> Hi <3
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CeCeloz&theme=tokyonight&fire=DD6400&ring=DD6400&currStreakNum=DD985F&stroke=484848)](https://git.io/streak-stats)
+[![nosphery stats](https://github-readme-stats.vercel.app/api?username=CeCeloz&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/nosphery/)
