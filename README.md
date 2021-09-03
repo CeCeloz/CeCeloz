@@ -1,5 +1,3 @@
-
-<h2 align="center">Dropout's Stats</h2>
 <a href="https://github.com/CeCeloz">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=CeCeloz" alt="Profile Views Count">
@@ -16,5 +14,5 @@
 
 <a href="https://discord.com/users/313008538215776257">
   <p align="center">
-    <img src="https://lanyard-profile-readme.vercel.app/api/401408747676893188" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/313008538215776257"/>
   </p>
