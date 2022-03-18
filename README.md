@@ -22,4 +22,4 @@
 ![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
 ![contact1](https://img.shields.io/static/v1?logo=github&label=&message=CeCeloz&color=555&logoColor=AAA&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=gmail&label=&message=haykkonenhr@gmail.com&color=555&logoColor=AAA&style=flat-square)
-![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=CeCeloz%230014&color=555&logoColor=AAA&style=flat-square)
+![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=Celoz%230014&color=555&logoColor=AAA&style=flat-square)
