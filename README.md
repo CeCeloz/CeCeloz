@@ -1,8 +1,4 @@
-# Wellcome to my github ⛩️ 
-
-<img align="left" src="https://i.imgur.com/4ltjpCw_d.webp?maxwidth=760&fidelity=grand" width="300" height="360" />
-
-## about me.
+<img align="up" src="https://i.imgur.com/bYOs4pq.jpg" width="135" height="135" />
 
 ![name](https://img.shields.io/static/v1?label=&message=Name%3A&color=111&style=flat-square)
 ![name2](https://img.shields.io/static/v1?label=&message=Haykkonen%20R.&color=555&style=flat-square)
@@ -23,3 +19,13 @@
 ![contact1](https://img.shields.io/static/v1?logo=github&label=&message=CeCeloz&color=555&logoColor=AAA&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=gmail&label=&message=haykkonenhr@gmail.com&color=555&logoColor=AAA&style=flat-square)
 ![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=Celoz%230014&color=555&logoColor=AAA&style=flat-square)
+
+-----
+
+
+<img src="static/kyubey.gif"
+  alt="madoka" width="100">
+  
+
+  
+**kings don't mix with jesters.**
